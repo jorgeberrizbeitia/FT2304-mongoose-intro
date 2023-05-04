@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Maisha",
+    "candy": 25,
+    "likesPokemon": true,
+    "pizzaToppings": ["piña", "tomate"]
+  },
+  {
+    "name": "Lorena",
+    "candy": 23,
+    "likesPokemon": true,
+    "pizzaToppings": ["tomate", "anchoas"]
+  },
+  {
+    "name": "Santiago",
+    "candy": 40,
+    "likesPokemon": false,
+    "pizzaToppings": ["piña"]
+  },
+  { 
+    "name": "Carlos", 
+    "candy": 80, 
+    "likesPokemon": true, 
+    "pizzaToppings": ["peperoni"]
+  },
+  {
+    "name": "Cecilia",
+    "candy": 10,
+    "likesPokemon": true,
+    "pizzaToppings": []
+  },
+  {
+    "name": "Fátima",
+    "likesPokemon": false,
+    "pizzaToppings": ["piña", "tomate", "jamon"]
+  }
+]
+
